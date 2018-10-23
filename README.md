@@ -8,7 +8,7 @@ In current config database files located in *'working_directory/db/'* dir
 ### Starting application
 
 Application requires [gradle](https://gradle.org) to run.
-Clone code from [gitlab](https://gitlab.com/Opilat/codingassignment.git), and let the gradle to do it's work
+Clone code from [github](https://github.com/pastrehe/CodingAssignment.git), and let the gradle to do it's work
 
 ```sh
 $ git clone https://gitlab.com/Opilat/CodingAssignment.git
