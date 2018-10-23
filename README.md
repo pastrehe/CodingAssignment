@@ -11,7 +11,7 @@ Application requires [gradle](https://gradle.org) to run.
 Clone code from [github](https://github.com/pastrehe/CodingAssignment.git), and let the gradle to do it's work
 
 ```sh
-$ git clone https://gitlab.com/Opilat/CodingAssignment.git
+$ git clone https://github.com/pastrehe/CodingAssignment.git
 $ cd CodingAssignment/
 $ gradle build
 $ gradle run  --args='/Users/user/app.log'
