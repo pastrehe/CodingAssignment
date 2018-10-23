@@ -38,3 +38,7 @@ Application uses 1/2 of detected CPUs, i.e. if server has 8 CPUs, parser will cr
 >Those limitation can be removed with the other cache implementation,
 >for example with [guava cache](https://github.com/google/guava) that supports expirations,
 >or [Redis](https://redis.io) - fast key-value storage, that supports expiration and data persistence.
+>
+>Any error during execution is considered critical and interrupts execution. This is not production-ready behaviour,
+>and should be changed in real app.
+
